@@ -1,5 +1,3 @@
-let num1 = 1
-let num2 = 2
-let soma = num1 + num2
-
-console.log(num1 + " + " + num2 + " = " + soma)
+for (let i = 1; i <= 10; i++) {
+    console.log(i)
+}

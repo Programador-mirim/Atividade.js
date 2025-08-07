@@ -69,6 +69,11 @@ for (let i = 2; i <= 10; i += 2) {
 
 //7. Contagem regressiva com while
 //Mostre no console os números de , usando while.
+let contador = 10
+while (contador >= 1) {
+    console.log(contador)
+    contador--
+}
 
 //8. Múltiplos de 5
 //Mostre os .
